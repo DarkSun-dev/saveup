@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.onrender.saveup.twa",
-        "sha256_cert_fingerprints": ["E7:10:2E:11:DE:C8:BF:49:00:0D:9C:96:13:3D:72:41:C6:BE:38:54:25:B4:B8:5B:0F:CB:F4:35:A9:84:C6:C3"]
+        "sha256_cert_fingerprints": ["68:57:86:EB:3E:7D:CA:6D:77:C6:1D:A1:A3:10:40:2D:19:AC:EC:73:45:E3:E1:9F:4B:D6:55:BD:7E:95:D6:BA"]
       }
     }]
