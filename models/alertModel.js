@@ -3,7 +3,8 @@ const alertSchema = new mongoose.Schema({
     entidades: Array,
     user: Object,
     message: String,
-    status: Object
+    status: Object,
+    data: String
 })
 const Alert = mongoose.model('Alert', alertSchema);
 module.exports = Alert
